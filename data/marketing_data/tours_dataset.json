@@ -1,0 +1,704 @@
+{
+  "tours": [
+    {
+      "id": 1,
+      "name": "Amazon Rainforest Expedition",
+      "region": "South America",
+      "description": "Join us on an immersive journey through the Amazon Rainforest, where you'll explore lush landscapes and diverse wildlife. Experience guided hikes, canoe excursions, and visits to indigenous communities. This eco-adventure emphasizes sustainability and education about the rainforest ecosystem. Capture stunning photographs of exotic flora and fauna. An unforgettable experience awaits you!",
+      "price": 2999,
+      "duration_days": 10,
+      "start_date": "2024-05-15",
+      "features": [
+        "wildlife",
+        "photography",
+        "hiking"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Icelandic Nature Quest",
+      "region": "Scandinavia",
+      "description": "Discover the breathtaking landscapes of Iceland on this eco-adventure tour. From volcanic craters to geysers, and glaciers to waterfalls, each day brings new natural wonders. You'll also have the opportunity to soak in natural hot springs and witness the Northern Lights. This tour combines adventure with a focus on preserving Iceland's unique environment. Perfect for nature lovers and thrill-seekers alike!",
+      "price": 3499,
+      "duration_days": 12,
+      "start_date": "2024-06-01",
+      "features": [
+        "hiking",
+        "photography",
+        "hot springs"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Safari in Serengeti",
+      "region": "Africa",
+      "description": "Experience the magic of the Serengeti on this eco-friendly safari tour. Witness the Great Migration and observe majestic wildlife in their natural habitat. This tour includes guided game drives, cultural exchanges with local tribes, and opportunities for conservation education. Enjoy sustainable lodging and meals sourced from local farms. An adventure that connects you to nature and local communities!",
+      "price": 4499,
+      "duration_days": 14,
+      "start_date": "2024-07-10",
+      "features": [
+        "wildlife",
+        "cultural",
+        "sustainability"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Great Barrier Reef Adventure",
+      "region": "Australia",
+      "description": "Dive into the wonders of the Great Barrier Reef with this eco-adventure tour. Snorkel and scuba dive among vibrant coral gardens and marine life. Learn about reef conservation and the importance of protecting this natural wonder. This tour focuses on sustainable practices and includes guided marine education sessions. A perfect getaway for ocean lovers!",
+      "price": 3699,
+      "duration_days": 8,
+      "start_date": "2024-05-20",
+      "features": [
+        "snorkeling",
+        "marine life",
+        "conservation"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Balinese Eco Retreat",
+      "region": "Southeast Asia",
+      "description": "Immerse yourself in the culture and natural beauty of Bali with our eco retreat tour. This package includes yoga sessions, organic cooking classes, and guided hikes through rice paddies and rainforests. You'll stay at eco-friendly accommodations and learn about sustainable living practices. Experience the rich traditions of Bali while connecting with nature in a serene environment.",
+      "price": 2399,
+      "duration_days": 7,
+      "start_date": "2024-09-05",
+      "features": [
+        "yoga",
+        "cooking",
+        "hiking"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Patagonia Hiking Expedition",
+      "region": "South America",
+      "description": "Embark on an unforgettable hiking adventure in Patagonia's stunning landscapes. This tour takes you through glaciers, mountains, and pristine lakes, with opportunities to spot unique wildlife. You'll camp under the stars and enjoy locally sourced meals. Join us for an experience that emphasizes environmental stewardship and the beauty of untouched wilderness. A true paradise for hikers!",
+      "price": 3999,
+      "duration_days": 11,
+      "start_date": "2024-08-15",
+      "features": [
+        "hiking",
+        "camping",
+        "wildlife"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Canadian Rockies Adventure",
+      "region": "North America",
+      "description": "Explore the majestic Canadian Rockies on this eco-adventure tour. Enjoy guided hikes, wildlife spotting, and breathtaking views of mountains and lakes. Learn about local conservation efforts and the importance of preserving this stunning region. Stay in eco-friendly lodges and enjoy farm-to-table meals. Perfect for outdoor enthusiasts and nature lovers!",
+      "price": 2899,
+      "duration_days": 9,
+      "start_date": "2024-07-25",
+      "features": [
+        "hiking",
+        "wildlife",
+        "conservation"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Galapagos Islands Exploration",
+      "region": "South America",
+      "description": "Discover the unique wildlife and ecosystems of the Galapagos Islands on this eco-friendly tour. Snorkel with sea lions, explore volcanic landscapes, and learn about conservation efforts in the area. This tour promotes sustainable tourism and includes expert guides to enhance your experience. Perfect for wildlife lovers and adventure seekers looking for a unique experience!",
+      "price": 4599,
+      "duration_days": 12,
+      "start_date": "2024-10-10",
+      "features": [
+        "wildlife",
+        "snorkeling",
+        "conservation"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Norwegian Fjord Cruise",
+      "region": "Scandinavia",
+      "description": "Experience the stunning beauty of Norway's fjords on this eco-conscious cruise. Sail through breathtaking landscapes, visit charming villages, and learn about local wildlife and conservation efforts. Enjoy guided hikes and kayaking in pristine waters. This tour combines adventure with a commitment to sustainability and preserving the natural environment.",
+      "price": 3999,
+      "duration_days": 10,
+      "start_date": "2024-06-20",
+      "features": [
+        "cruise",
+        "hiking",
+        "kayaking"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Machu Picchu Trek",
+      "region": "South America",
+      "description": "Take on the Inca Trail to Machu Picchu on this breathtaking trek through the Andes. Experience stunning views, rich culture, and the opportunity to learn about Incan history. Our eco-friendly approach ensures that your adventure supports local communities and conservation efforts. Enjoy guided hikes, traditional meals, and the thrill of reaching one of the world's wonders!",
+      "price": 3499,
+      "duration_days": 7,
+      "start_date": "2024-05-30",
+      "features": [
+        "hiking",
+        "culture",
+        "history"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Desert Safari in Namibia",
+      "region": "Africa",
+      "description": "Adventure awaits in the stunning landscapes of Namibia. This eco-safari includes guided drives through the Namib Desert, wildlife spotting, and visits to local tribes. You'll learn about conservation initiatives aimed at protecting this unique environment. Stay in eco-friendly camps and enjoy authentic Namibian cuisine. A journey to connect with nature and the culture of Africa!",
+      "price": 4299,
+      "duration_days": 10,
+      "start_date": "2024-08-01",
+      "features": [
+        "wildlife",
+        "culture",
+        "desert"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Alaskan Wilderness Adventure",
+      "region": "North America",
+      "description": "Explore the wild beauty of Alaska on this eco-adventure tour. Experience glacier hikes, wildlife viewing, and kayaking in pristine waters. Learn about local ecosystems and conservation efforts from expert guides. This tour focuses on sustainable practices and offers unique opportunities to engage with nature. Perfect for adventure seekers and nature enthusiasts alike!",
+      "price": 3999,
+      "duration_days": 9,
+      "start_date": "2024-07-15",
+      "features": [
+        "wildlife",
+        "hiking",
+        "kayaking"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "New Zealand Adventure Tour",
+      "region": "Oceania",
+      "description": "Experience the diverse landscapes of New Zealand on this eco-friendly adventure tour. From stunning beaches to majestic mountains, you'll explore it all. Engage in activities such as hiking, kayaking, and wildlife spotting while learning about conservation efforts. Enjoy stays in eco-lodges and local cuisine. A fantastic opportunity for adventure and sustainability!",
+      "price": 4599,
+      "duration_days": 14,
+      "start_date": "2024-09-10",
+      "features": [
+        "hiking",
+        "wildlife",
+        "adventure"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Costa Rica Eco-Adventure",
+      "region": "Central America",
+      "description": "Discover the biodiversity of Costa Rica on this eco-adventure tour. Experience lush rainforests, volcanic landscapes, and stunning beaches. Engage in activities such as zip-lining, wildlife watching, and guided hikes. Learn about conservation efforts and sustainable practices while enjoying the beauty of this tropical paradise. Perfect for adventure lovers and nature enthusiasts!",
+      "price": 2499,
+      "duration_days": 8,
+      "start_date": "2024-06-15",
+      "features": [
+        "wildlife",
+        "hiking",
+        "zip-lining"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Antarctic Expedition",
+      "region": "Antarctica",
+      "description": "Embark on an extraordinary journey to Antarctica on this eco-adventure tour. Witness breathtaking landscapes and unique wildlife, including seals and penguins. This expedition emphasizes sustainable practices and includes educational opportunities about climate change and conservation. Experience the thrill of exploring one of the last great wildernesses on Earth!",
+      "price": 4999,
+      "duration_days": 12,
+      "start_date": "2024-11-01",
+      "features": [
+        "wildlife",
+        "adventure",
+        "sustainability"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Borneo Jungle Trek",
+      "region": "Southeast Asia",
+      "description": "Explore the rich biodiversity of Borneo on this thrilling jungle trek. Experience guided hikes, wildlife spotting, and visits to unique ecosystems. Learn about local conservation efforts and the importance of protecting Borneo's rainforest. Stay in eco-friendly accommodations and enjoy meals sourced from local ingredients. An unforgettable adventure for nature lovers!",
+      "price": 2999,
+      "duration_days": 10,
+      "start_date": "2024-08-20",
+      "features": [
+        "wildlife",
+        "hiking",
+        "conservation"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Hiking the Dolomites",
+      "region": "Europe",
+      "description": "Experience the stunning beauty of the Dolomites on this hiking adventure. Enjoy breathtaking views, local culture, and delicious cuisine while exploring this UNESCO World Heritage site. Guided hikes will take you through picturesque villages and pristine landscapes. This tour emphasizes sustainability and supports local businesses, making it a perfect choice for eco-conscious travelers.",
+      "price": 2899,
+      "duration_days": 7,
+      "start_date": "2024-09-25",
+      "features": [
+        "hiking",
+        "culture",
+        "food"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Wildlife Safari in Botswana",
+      "region": "Africa",
+      "description": "Explore the incredible wildlife of Botswana on this eco-friendly safari. Experience guided game drives, walking safaris, and cultural interactions with local communities. Learn about conservation efforts aimed at protecting Botswana's unique ecosystems. Enjoy stays in eco-lodges and savor delicious meals made from local ingredients. A journey that connects you to nature and wildlife!",
+      "price": 4599,
+      "duration_days": 12,
+      "start_date": "2024-10-05",
+      "features": [
+        "wildlife",
+        "culture",
+        "safari"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Sailing the Greek Islands",
+      "region": "Europe",
+      "description": "Discover the beauty of the Greek Islands on this eco-conscious sailing tour. Experience stunning beaches, crystal-clear waters, and charming villages while sailing between islands. Engage in activities such as snorkeling and hiking, all while learning about local conservation efforts. Enjoy locally sourced meals and stay in eco-friendly accommodations. Perfect for sea lovers and adventure seekers!",
+      "price": 3699,
+      "duration_days": 10,
+      "start_date": "2024-06-30",
+      "features": [
+        "sailing",
+        "snorkeling",
+        "culture"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Vietnam Eco-Adventure",
+      "region": "Southeast Asia",
+      "description": "Experience the rich culture and stunning landscapes of Vietnam on this eco-adventure tour. Explore bustling markets, picturesque rice terraces, and pristine beaches. Engage in activities such as cooking classes, guided hikes, and cultural exchanges with local communities. This tour emphasizes sustainable practices and supports local economies while providing an unforgettable experience.",
+      "price": 2399,
+      "duration_days": 9,
+      "start_date": "2024-08-10",
+      "features": [
+        "culture",
+        "cooking",
+        "hiking"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Trekking in the Himalayas",
+      "region": "Asia",
+      "description": "Embark on a life-changing trek in the majestic Himalayas. Experience breathtaking landscapes, unique cultures, and rich traditions while hiking through stunning valleys and mountains. This tour includes expert guidance and emphasizes eco-friendly practices. Engage with local communities and learn about their ways of life while supporting sustainable tourism.",
+      "price": 3999,
+      "duration_days": 14,
+      "start_date": "2024-09-15",
+      "features": [
+        "hiking",
+        "culture",
+        "adventure"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Wildlife Conservation in Kenya",
+      "region": "Africa",
+      "description": "Join us for a unique eco-adventure focused on wildlife conservation in Kenya. Participate in research projects, guided safaris, and community engagement activities while learning about local ecosystems. This tour emphasizes sustainable practices and supports conservation efforts. Experience the thrill of witnessing Africa's majestic wildlife while making a positive impact.",
+      "price": 4599,
+      "duration_days": 11,
+      "start_date": "2024-10-20",
+      "features": [
+        "wildlife",
+        "conservation",
+        "safari"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Cultural Immersion in Peru",
+      "region": "South America",
+      "description": "Immerse yourself in the rich culture of Peru on this eco-adventure tour. Engage with local communities, explore historical sites, and enjoy traditional cuisine. This tour includes guided hikes and opportunities to learn about sustainable practices. Experience the vibrant culture and stunning landscapes of Peru while supporting local economies.",
+      "price": 2699,
+      "duration_days": 9,
+      "start_date": "2024-07-01",
+      "features": [
+        "culture",
+        "food",
+        "hiking"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Cycling Through Cambodia",
+      "region": "Southeast Asia",
+      "description": "Explore the beautiful landscapes and rich history of Cambodia on this cycling adventure. Ride through rice paddies, ancient temples, and charming villages while learning about local culture. This eco-friendly tour emphasizes sustainable practices and supports local communities. Enjoy authentic Cambodian cuisine and engage with friendly locals along the way.",
+      "price": 1999,
+      "duration_days": 7,
+      "start_date": "2024-06-10",
+      "features": [
+        "cycling",
+        "culture",
+        "food"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Wildlife Watching in Alaska",
+      "region": "North America",
+      "description": "Experience the incredible wildlife of Alaska on this eco-adventure tour. Engage in guided wildlife watching, kayaking, and hiking in breathtaking landscapes. Learn about local ecosystems and conservation efforts while enjoying the stunning natural beauty of the region. This tour combines adventure with a commitment to sustainability and protection of wildlife.",
+      "price": 3199,
+      "duration_days": 8,
+      "start_date": "2024-07-28",
+      "features": [
+        "wildlife",
+        "hiking",
+        "kayaking"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Exploring the Amazon River",
+      "region": "South America",
+      "description": "Join us for an unforgettable journey along the Amazon River. Experience guided boat tours, wildlife spotting, and visits to indigenous communities. Learn about the importance of preserving this vital ecosystem and engage in conservation efforts. This eco-adventure emphasizes sustainable practices and provides opportunities for cultural exchanges. A unique way to explore one of the world's most biodiverse regions!",
+      "price": 2899,
+      "duration_days": 10,
+      "start_date": "2024-08-05",
+      "features": [
+        "culture",
+        "wildlife",
+        "conservation"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Kayaking in Baja California",
+      "region": "North America",
+      "description": "Explore the stunning coastline of Baja California on this eco-adventure kayaking tour. Paddle through crystal-clear waters, observe marine life, and visit secluded beaches. This tour emphasizes eco-friendly practices and includes opportunities for wildlife watching and snorkeling. Enjoy delicious meals made from local ingredients while experiencing the beauty of the region.",
+      "price": 2499,
+      "duration_days": 6,
+      "start_date": "2024-09-12",
+      "features": [
+        "kayaking",
+        "marine life",
+        "snorkeling"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Eco-Lodge Retreat in Costa Rica",
+      "region": "Central America",
+      "description": "Relax and rejuvenate at our eco-lodge in the heart of Costa Rica. Engage in activities such as yoga, hiking, and wildlife watching while enjoying the beauty of nature. This tour emphasizes sustainable practices and offers opportunities to learn about local ecosystems. Experience delicious farm-to-table meals and connect with fellow nature lovers.",
+      "price": 2199,
+      "duration_days": 5,
+      "start_date": "2024-06-25",
+      "features": [
+        "relaxation",
+        "yoga",
+        "wildlife"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Cultural Adventure in Morocco",
+      "region": "Africa",
+      "description": "Explore the rich culture and landscapes of Morocco on this eco-adventure tour. Visit bustling markets, ancient ruins, and stunning deserts while engaging with local communities. This tour emphasizes sustainable practices and supports local economies. Experience authentic Moroccan cuisine and learn about the country's traditions.",
+      "price": 2799,
+      "duration_days": 9,
+      "start_date": "2024-10-15",
+      "features": [
+        "culture",
+        "food",
+        "adventure"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Exploring the Fjords of Chile",
+      "region": "South America",
+      "description": "Experience the stunning fjords of Chile on this eco-adventure cruise. Sail through breathtaking landscapes, visit glaciers, and observe unique wildlife. This tour combines adventure with a focus on sustainability and conservation efforts. Enjoy locally sourced meals and engage in guided excursions to learn about the region's ecosystems.",
+      "price": 3999,
+      "duration_days": 11,
+      "start_date": "2024-11-10",
+      "features": [
+        "cruise",
+        "wildlife",
+        "sustainability"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Caving Adventure in Slovenia",
+      "region": "Europe",
+      "description": "Explore the stunning underground world of Slovenia on this caving adventure. Experience guided tours through incredible caves and learn about geological formations and ecosystems. This eco-friendly tour emphasizes sustainability and conservation of natural resources. Perfect for adventure seekers looking for a unique experience!",
+      "price": 1999,
+      "duration_days": 6,
+      "start_date": "2024-07-20",
+      "features": [
+        "adventure",
+        "geology",
+        "sustainability"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Wildlife Photography in Tanzania",
+      "region": "Africa",
+      "description": "Join us for a photography-focused eco-adventure in Tanzania's stunning landscapes. Experience guided wildlife safaris, learn about conservation efforts, and capture breathtaking images of animals in their natural habitat. This tour includes opportunities for cultural exchanges and emphasizes sustainable practices. A perfect blend of adventure and creativity!",
+      "price": 2999,
+      "duration_days": 10,
+      "start_date": "2024-09-18",
+      "features": [
+        "photography",
+        "wildlife",
+        "culture"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Sustainable Fishing in Norway",
+      "region": "Scandinavia",
+      "description": "Experience sustainable fishing practices in Norway's stunning fjords. Join local fishermen as they share their knowledge and techniques while exploring the pristine waters. This eco-adventure emphasizes sustainability and conservation of marine life. Enjoy fresh seafood meals and engage in cultural exchanges with local communities. A unique opportunity for fishing enthusiasts!",
+      "price": 2799,
+      "duration_days": 7,
+      "start_date": "2024-08-30",
+      "features": [
+        "fishing",
+        "sustainability",
+        "culture"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Cultural Experience in India",
+      "region": "Asia",
+      "description": "Immerse yourself in the vibrant culture of India on this eco-adventure tour. Visit historical sites, engage with local communities, and experience traditional cuisine. This tour emphasizes sustainable practices and supports local economies. Discover the rich traditions and stunning landscapes of India while creating lasting memories.",
+      "price": 2499,
+      "duration_days": 10,
+      "start_date": "2024-07-05",
+      "features": [
+        "culture",
+        "food",
+        "adventure"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Mountain Biking in the Andes",
+      "region": "South America",
+      "description": "Experience the thrill of mountain biking in the stunning Andes mountains. This eco-adventure includes guided rides through scenic landscapes, opportunities for wildlife spotting, and visits to local communities. Learn about sustainable practices while enjoying the beauty of this remarkable region. Perfect for biking enthusiasts and adventure seekers!",
+      "price": 3199,
+      "duration_days": 8,
+      "start_date": "2024-08-25",
+      "features": [
+        "biking",
+        "wildlife",
+        "adventure"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Cultural Exploration in Japan",
+      "region": "Asia",
+      "description": "Explore the unique culture and landscapes of Japan on this eco-adventure tour. Visit ancient temples, engage with local artisans, and experience traditional cuisine. This tour emphasizes sustainability and supports local communities. Discover the beauty and traditions of Japan while creating unforgettable memories.",
+      "price": 3499,
+      "duration_days": 10,
+      "start_date": "2024-09-30",
+      "features": [
+        "culture",
+        "food",
+        "adventure"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Exploring the Scottish Highlands",
+      "region": "Europe",
+      "description": "Experience the rugged beauty of the Scottish Highlands on this eco-adventure tour. Enjoy guided hikes, wildlife spotting, and visits to historic sites. This tour emphasizes sustainability and includes opportunities to engage with local communities. Discover the rich culture and stunning landscapes of Scotland while enjoying traditional Scottish cuisine.",
+      "price": 2899,
+      "duration_days": 9,
+      "start_date": "2024-10-05",
+      "features": [
+        "hiking",
+        "culture",
+        "food"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Canoeing in the Canadian Wilderness",
+      "region": "North America",
+      "description": "Explore the stunning Canadian wilderness on this canoeing adventure. Paddle through pristine lakes and rivers, surrounded by breathtaking landscapes. This eco-friendly tour emphasizes sustainability and includes opportunities for wildlife watching and camping under the stars. Perfect for outdoor enthusiasts seeking a unique experience!",
+      "price": 2999,
+      "duration_days": 6,
+      "start_date": "2024-08-12",
+      "features": [
+        "canoeing",
+        "wildlife",
+        "camping"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Cultural Journey in Thailand",
+      "region": "Southeast Asia",
+      "description": "Immerse yourself in the rich culture of Thailand on this eco-adventure tour. Visit ancient temples, engage with local communities, and experience traditional cuisine. This tour emphasizes sustainable practices and supports local economies while providing unforgettable experiences.",
+      "price": 2499,
+      "duration_days": 9,
+      "start_date": "2024-07-15",
+      "features": [
+        "culture",
+        "food",
+        "adventure"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Exploring the Caves of Mexico",
+      "region": "North America",
+      "description": "Discover the stunning underground caves of Mexico on this eco-adventure tour. Experience guided tours through incredible cave systems while learning about geological formations and ecosystems. This tour emphasizes sustainability and conservation of natural resources. Perfect for adventure seekers looking for a unique experience!",
+      "price": 2199,
+      "duration_days": 5,
+      "start_date": "2024-06-05",
+      "features": [
+        "caving",
+        "adventure",
+        "sustainability"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Hiking the Appalachian Trail",
+      "region": "North America",
+      "description": "Experience the breathtaking beauty of the Appalachian Trail on this hiking adventure. Journey through diverse landscapes, engage in wildlife spotting, and learn about local ecosystems. This tour emphasizes sustainability and includes opportunities for community engagement. Perfect for outdoor enthusiasts and nature lovers!",
+      "price": 2999,
+      "duration_days": 8,
+      "start_date": "2024-09-12",
+      "features": [
+        "hiking",
+        "wildlife",
+        "adventure"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Exploring the Wildlife of Madagascar",
+      "region": "Africa",
+      "description": "Discover the unique wildlife and ecosystems of Madagascar on this eco-adventure tour. Experience guided hikes, wildlife spotting, and cultural exchanges with local communities. This tour emphasizes conservation and sustainable tourism practices. Engage with the rich biodiversity of this incredible island while creating lasting memories.",
+      "price": 3999,
+      "duration_days": 12,
+      "start_date": "2024-10-25",
+      "features": [
+        "wildlife",
+        "culture",
+        "hiking"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Cultural Experience in Guatemala",
+      "region": "Central America",
+      "description": "Immerse yourself in the vibrant culture of Guatemala on this eco-adventure tour. Visit ancient ruins, engage with local artisans, and experience traditional cuisine. This tour emphasizes sustainable practices and supports local economies. Discover the rich traditions and stunning landscapes of Guatemala while creating unforgettable memories.",
+      "price": 2399,
+      "duration_days": 9,
+      "start_date": "2024-08-18",
+      "features": [
+        "culture",
+        "food",
+        "adventure"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Exploring the Bayous of Louisiana",
+      "region": "North America",
+      "description": "Experience the unique ecosystems of Louisiana's bayous on this eco-adventure tour. Join guided boat tours, observe diverse wildlife, and learn about local conservation efforts. This tour emphasizes sustainability and cultural exchange, providing a deep understanding of this fascinating environment. Perfect for nature lovers and adventure seekers!",
+      "price": 2199,
+      "duration_days": 6,
+      "start_date": "2024-07-10",
+      "features": [
+        "wildlife",
+        "culture",
+        "adventure"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Exploring Ancient Ruins in Belize",
+      "region": "Central America",
+      "description": "Discover the ancient ruins and rich culture of Belize on this eco-adventure tour. Engage with local communities, explore historical sites, and experience traditional cuisine. This tour emphasizes sustainable practices and supports local economies while providing unforgettable experiences.",
+      "price": 2699,
+      "duration_days": 9,
+      "start_date": "2024-09-01",
+      "features": [
+        "culture",
+        "history",
+        "adventure"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Biking Through the Netherlands",
+      "region": "Europe",
+      "description": "Explore the picturesque landscapes of the Netherlands on this biking adventure. Ride through charming villages, tulip fields, and along canals while learning about local culture. This eco-friendly tour emphasizes sustainability and supports local economies. Enjoy delicious Dutch cuisine and engage with friendly locals throughout your journey.",
+      "price": 2199,
+      "duration_days": 7,
+      "start_date": "2024-06-12",
+      "features": [
+        "biking",
+        "culture",
+        "food"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Exploring the Fjords of Norway",
+      "region": "Scandinavia",
+      "description": "Experience the breathtaking fjords of Norway on this eco-adventure tour. Enjoy guided hikes, kayaking, and wildlife spotting while learning about local ecosystems. This tour promotes sustainable practices and supports conservation efforts. A perfect getaway for nature lovers and adventure seekers!",
+      "price": 3599,
+      "duration_days": 10,
+      "start_date": "2024-09-15",
+      "features": [
+        "hiking",
+        "kayaking",
+        "wildlife"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Cultural Experience in Ecuador",
+      "region": "South America",
+      "description": "Immerse yourself in the diverse culture of Ecuador on this eco-adventure tour. Visit indigenous communities, explore historical sites, and experience traditional cuisine. This tour emphasizes sustainable practices and supports local economies while providing unforgettable experiences. Discover the rich traditions and stunning landscapes of Ecuador.",
+      "price": 2699,
+      "duration_days": 8,
+      "start_date": "2024-06-20",
+      "features": [
+        "culture",
+        "food",
+        "adventure"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Exploring the National Parks of Utah",
+      "region": "North America",
+      "description": "Explore the stunning national parks of Utah on this eco-adventure tour. Experience guided hikes, breathtaking landscapes, and opportunities for wildlife spotting. This tour emphasizes sustainability and conservation efforts while providing unforgettable experiences in nature. Perfect for outdoor enthusiasts and adventure seekers!",
+      "price": 2899,
+      "duration_days": 7,
+      "start_date": "2024-08-05",
+      "features": [
+        "hiking",
+        "wildlife",
+        "adventure"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Historical Journey in Turkey",
+      "region": "Asia",
+      "description": "Discover the rich history and culture of Turkey on this eco-adventure tour. Visit ancient ruins, engage with local artisans, and experience traditional cuisine. This tour emphasizes sustainable practices and supports local economies while providing unforgettable experiences. A unique opportunity to explore a fascinating country steeped in history.",
+      "price": 2999,
+      "duration_days": 10,
+      "start_date": "2024-07-30",
+      "features": [
+        "culture",
+        "history",
+        "food"
+      ]
+    }
+  ]
+}
